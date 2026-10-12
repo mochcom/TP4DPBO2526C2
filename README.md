@@ -1,7 +1,6 @@
-# TP4DPBO2526C2
-# PeopleData – Rumah Sakit Psikologi
+# TP4DPBO2526C2 PeopleData – Rumah Sakit Psikologi
 
-Saya Moch Fadillah Pratama dengan NIM 2506968 mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Moch Fadillah Pratama dengan NIM 2506968 mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 Aplikasi desktop berbasis **Java Swing** untuk mengelola data pasien dan tenaga di sebuah Rumah Sakit Psikologi. Proyek ini dikerjakan sebagai **Tugas Praktikum 4 – Introduction to Java Swing GUI** pada mata kuliah **Desain dan Pemrograman Berorientasi Objek (DPBO)**.
 
